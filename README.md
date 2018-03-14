@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the documentation for OpenVIM - an open-source video microscope
 
-You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OpenVIM was developed by a group of scientists to record the dynamic process of biological development in large numbers of aquatic embryos over prolonged periods. It has proven effective for capturing complex responses of embryos and larvae and is supporting a new approach to visualising this fascinating period.
+
+
+
+
+is You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
