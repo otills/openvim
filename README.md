@@ -10,8 +10,15 @@ OpenVIM is a modular video microscope was developed by a team of scientists to r
 See: www.vimeo.com/channels/embryonicdevelopment to see example video generated using OpenVIM.
 
 ## How does OpenVIM differ from a traditional microscope?
-OpenVIM is entirely digital and does not contain eye pieces, unlike a traditional microscope. It relies on a high quality machine vision camera to capture images. Furthermore, OpenVIM uses automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
+A number of things make OpenVIM different to a traditional microscope
+* OpenVIM is entirely digital and does not contain eye pieces, unlike a traditional microscope. It relies on a high quality machine vision camera to acquire images.
+* OpenVIM uses optics with a high depth of field - allowing the entire depth of large numbers of embryos to be acquired in focus over prolonged periods
+* OpenVIM encompasses tight control over the embryonic environment (temperature, nitrogen, oxygen, carbon dioxide and humidity) over a prolonged period
+* OpenVIM uses an automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
+* OpenVIM is controlled using MicroManager www.micromanager.org an open-source plugin for image acquisition, run within ImageJ, the popular image analysis software
+* OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
 
+## How does OpenVIM differ from a traditional microscope?
 ![Acquisition Schematic](https://github.com/otills/openvim/blob/master/acquisitionSchematic.png)
 
 
