@@ -23,7 +23,8 @@ three
 <a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 four 
-![Multiple temporal resolutions](RadixTempMultiRes_ezgifReduced.gif | width=500){:class="img-responsive"}
+![Multiple temporal resolutions](<a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
+ | width=500){:class="img-responsive"}
 
 
 
@@ -54,7 +55,8 @@ three
 <a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 four 
-![Multiple temporal resolutions](RadixTempMultiRes_ezgifReduced.gif | width=500){:class="img-responsive"}
+![Multiple temporal resolutions](<a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
+ | width=500){:class="img-responsive"}
 
 sdf
 is You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
