@@ -12,7 +12,7 @@ OpenVIM is entirely digital and does not unlike a traditional microscope does no
 
 [[https://github.com/otills/openvim/blob/master/acquisitionSchematic.png|alt=acquisitionSchematic]]]]
 
-
+![useful image]({{ https://github.com/otills/openvim/blob/master/acquisitionSchematic.png }})
 
 
 is You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
