@@ -3,17 +3,12 @@
 
 ### What is OpenVIM?
 OpenVIM is a modular video microscope developed by a team of scientists to record the dynamic process of biological development in large numbers of aquatic embryos over prolonged periods. It has proven effective for capturing complex responses of embryos and larvae and is supporting a new approach to visualising this fascinating period.
-[https://github.com/otills/openvim/blob/master/docs/OpenVIM.png|alt=octocat]
-![alt text](https://github.com/otills/openvim/blob/master/OpenVIM.png "Logo Title Text 1")
-<img src="https://github.com/otills/openvim/blob/master/OpenVIM.png" title="OpenVIM Figure" width="700">
-https://github.com/otills/openvim/blob/master/OpenVIM.png
 
-![image-title-here](https://github.com/otills/openvim/blob/master/OpenVIM.png){:class="img-responsive"}
-![image-title-here](https://github.com/otills/openvim/blob/master/docs/OpenVIM.png){:class="img-responsive"}
+<img src="openVIM.png" title="Multiple temporal resolutions" title = "OpenVIM Figure" width="700">
 
 <img src="zoomedTempRadix.gif" title="Multiple temporal resolutions" width="700">
-openvim/docs/zoomedTempRadix.gif
-See: www.vimeo.com/channels/embryonicdevelopment to see example video generated using OpenVIM.
+
+See: [[www.vimeo.com/channels/embryonicdevelopment]] to see example video generated using OpenVIM.
 
 ## How does OpenVIM differ from a traditional microscope?
 A number of things make OpenVIM different to a traditional microscope
@@ -27,7 +22,8 @@ A number of things make OpenVIM different to a traditional microscope
 
 ## What can OpenVIM do?
 
-<img src="https://github.com/otills/openvim/blob/master/zoomedTempRadix.gif" title="Multiple temporal resolutions" width="700">
+<img src="zoomedTempRadix.gif" title="Embryos at multiple temporal resolutions" width="700">
+
 
 
 
