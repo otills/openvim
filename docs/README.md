@@ -22,7 +22,7 @@ A number of things make OpenVIM different to a traditional microscope
 
 ## What can OpenVIM do?
 
-<img src="zoomedTempRadix.gif" title="Embryos at multiple temporal resolutions" width="700">
+<img src="RadixTempMultiRes_ezgifReduced.gif" title="Embryos at multiple temporal resolutions" width="700">
 
 
 
