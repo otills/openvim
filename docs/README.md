@@ -14,23 +14,6 @@ one
 
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2" width = "500">
 
-two
-
-<img src="radixDevelopment.gif" title= "Mult temp res 2" width = "500">
-
-
-three
-
-<a href="radixDevelopment.gif" title= "Mult temp res 2" width = "500">
-
-four 
-
-![Multiple temporal resolutions](<a href="radixDevelopment.gif" title= "Mult temp res 2" width = "500">
- | width=500){:class="img-responsive"}
-
-five 
-
-![Bilby Stampede](assets/radixDevelopment.gif width = 500 )
 
 
 
