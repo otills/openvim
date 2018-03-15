@@ -21,6 +21,7 @@ A number of things make OpenVIM different to a traditional microscope
 
 ![Acquisition Schematic](https://github.com/otills/openvim/blob/master/acquisitionSchematic.png {width=20px})
 
+<img src="https://github.com/otills/openvim/blob/master/acquisitionSchematic.png" width="48">
 
 
 
