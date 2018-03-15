@@ -22,7 +22,7 @@ A number of things make OpenVIM different to a traditional microscope
 
 ## What can OpenVIM do?
 
-<img src="https://github.com/otills/openvim/blob/master/acquisitionSchematic.png" title="Acquisition Schematic" width="700">
+<img src="https://github.com/otills/openvim/blob/master/zoomedTempRadix.gif" title="Multiple temporal resolutions" width="700">
 
 
 
