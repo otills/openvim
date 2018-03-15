@@ -1,9 +1,8 @@
 ## Welcome to the documentation for OpenVIM - an open-source video microscope
 
-GIF 
 
 ### What is OpenVIM?
-OpenVIM is a modular video microscope was developed by a team of scientists to record the dynamic process of biological development in large numbers of aquatic embryos over prolonged periods. It has proven effective for capturing complex responses of embryos and larvae and is supporting a new approach to visualising this fascinating period.
+OpenVIM is a modular video microscope developed by a team of scientists to record the dynamic process of biological development in large numbers of aquatic embryos over prolonged periods. It has proven effective for capturing complex responses of embryos and larvae and is supporting a new approach to visualising this fascinating period.
 
 
 <img src="https://github.com/otills/openvim/blob/master/OpenVIM.png" title="OpenVIM Figure" width="700">
@@ -13,11 +12,11 @@ See: www.vimeo.com/channels/embryonicdevelopment to see example video generated 
 ## How does OpenVIM differ from a traditional microscope?
 A number of things make OpenVIM different to a traditional microscope
 - [x] OpenVIM is entirely digital and does not contain eye pieces, unlike a traditional microscope. It relies on a high quality machine vision camera to acquire images.
-- [x] OpenVIM uses optics with a high depth of field - allowing the entire depth of large numbers of embryos to be acquired in focus over prolonged periods
-- [x] OpenVIM encompasses tight control over the embryonic environment (temperature, nitrogen, oxygen, carbon dioxide and humidity) over a prolonged period
-- [x] OpenVIM uses an automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
-- [x] OpenVIM is controlled using MicroManager www.micromanager.org an open-source plugin for image acquisition, run within ImageJ, the popular image analysis software
-- [x] OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
+[x] OpenVIM uses optics with a high depth of field - allowing the entire depth of large numbers of embryos to be acquired in focus over prolonged periods
+[x] OpenVIM encompasses tight control over the embryonic environment (temperature, nitrogen, oxygen, carbon dioxide and humidity) over a prolonged period
+[x] OpenVIM uses an automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
+[x] OpenVIM is controlled using MicroManager www.micromanager.org an open-source plugin for image acquisition, run within ImageJ, the popular image analysis software
+[x] OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
 
 
 ## What can OpenVIM do?
