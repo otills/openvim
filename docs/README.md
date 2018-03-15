@@ -28,6 +28,9 @@ four
 ![Multiple temporal resolutions](<a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
  | width=500){:class="img-responsive"}
 
+five 
+
+![Bilby Stampede](radixDevelopment.gif)
 
 
 
