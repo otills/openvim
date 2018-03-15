@@ -26,10 +26,14 @@ A number of things make OpenVIM different to a traditional microscope
 
 one
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = "500">
+
 two
+
 <img src="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
+
 three
+
 <a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 
