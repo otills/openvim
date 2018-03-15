@@ -6,7 +6,7 @@ GIF
 OpenVIM is a modular video microscope was developed by a team of scientists to record the dynamic process of biological development in large numbers of aquatic embryos over prolonged periods. It has proven effective for capturing complex responses of embryos and larvae and is supporting a new approach to visualising this fascinating period.
 
 
-<img src="https://github.com/otills/openvim/blob/master/OpenVIM.png" title="OpenVIM Figure" width="900">
+<img src="https://github.com/otills/openvim/blob/master/OpenVIM.png" title="OpenVIM Figure" width="700">
 
 See: www.vimeo.com/channels/embryonicdevelopment to see example video generated using OpenVIM.
 
@@ -20,7 +20,7 @@ A number of things make OpenVIM different to a traditional microscope
 - [x] OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
 
 
-<img src="https://github.com/otills/openvim/blob/master/acquisitionSchematic.png" title="Acquisition Schematic" width="900">
+<img src="https://github.com/otills/openvim/blob/master/acquisitionSchematic.png" title="Acquisition Schematic" width="700">
 
 
 
