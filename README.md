@@ -18,8 +18,8 @@ A number of things make OpenVIM different to a traditional microscope
 * OpenVIM is controlled using MicroManager www.micromanager.org an open-source plugin for image acquisition, run within ImageJ, the popular image analysis software
 * OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
 
-## How does OpenVIM differ from a traditional microscope?
-![Acquisition Schematic](https://github.com/otills/openvim/blob/master/acquisitionSchematic.png)
+
+![Acquisition Schematic](https://github.com/otills/openvim/blob/master/acquisitionSchematic.png =750x250)
 
 
 
