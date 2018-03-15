@@ -6,26 +6,6 @@ OpenVIM is a modular video microscope developed by a team of scientists to recor
 
 <img src="openVIM.png" title = "OpenVIM Figure" width="700">
 
-<img src="RadixTempMultiRes_ezgifReduced.gif" title="Multiple temporal resolutions" width="700">
-
-See: [[www.vimeo.com/channels/embryonicdevelopment]] to see example video generated using OpenVIM.
-
-## How does OpenVIM differ from a traditional microscope?
-A number of things make OpenVIM different to a traditional microscope
-- [x] OpenVIM is entirely digital and does not contain eye pieces, unlike a traditional microscope. It relies on a high quality machine vision camera to acquire images.
-[x] OpenVIM uses optics with a high depth of field - allowing the entire depth of large numbers of embryos to be acquired in focus over prolonged periods
-[x] OpenVIM encompasses tight control over the embryonic environment (temperature, nitrogen, oxygen, carbon dioxide and humidity) over a prolonged period
-[x] OpenVIM uses an automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
-[x] OpenVIM is controlled using MicroManager www.micromanager.org an open-source plugin for image acquisition, run within ImageJ, the popular image analysis software
-[x] OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
-
-
-## What can OpenVIM do?
-
-<img src="RadixTempMultiRes_ezgifReduced.gif" title="Embryos at multiple temporal resolutions" width="700">
-
-
-
 
 
 is You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
