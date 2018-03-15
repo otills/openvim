@@ -11,8 +11,8 @@ https://github.com/otills/openvim/blob/master/OpenVIM.png
 ![image-title-here](https://github.com/otills/openvim/blob/master/OpenVIM.png){:class="img-responsive"}
 ![image-title-here](https://github.com/otills/openvim/blob/master/docs/OpenVIM.png){:class="img-responsive"}
 
-<img src="https://github.com/otills/openvim/docs/acquisitionSchematic.png" title="Multiple temporal resolutions" width="700">
-
+<img src="zoomedTempRadix.gif" title="Multiple temporal resolutions" width="700">
+openvim/docs/zoomedTempRadix.gif
 See: www.vimeo.com/channels/embryonicdevelopment to see example video generated using OpenVIM.
 
 ## How does OpenVIM differ from a traditional microscope?
