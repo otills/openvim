@@ -6,7 +6,7 @@ OpenVIM is a modular video microscope developed by a team of scientists to recor
 
 <img src="openVIM.png" title = "OpenVIM Figure" width="700">
 
-<img src="zoomedTempRadix.gif" title="Multiple temporal resolutions" width="700">
+<img src="RadixTempMultiRes_ezgifReduced.gif" title="Multiple temporal resolutions" width="700">
 
 See: [[www.vimeo.com/channels/embryonicdevelopment]] to see example video generated using OpenVIM.
 
