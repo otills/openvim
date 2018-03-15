@@ -11,6 +11,7 @@ See: [Embryonic development Vimeo Channel](www.vimeo.com/channels/embryonicdevel
 ## What can OpenVIM do?
 
 one
+
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 two
@@ -23,6 +24,7 @@ three
 <a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 four 
+
 ![Multiple temporal resolutions](<a href="radixDevelopment.gif" title= "Mult temp res 2", width = "500">
  | width=500){:class="img-responsive"}
 
