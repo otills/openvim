@@ -24,7 +24,7 @@ A number of things make OpenVIM different to a traditional microscope
 
 ## What can OpenVIM do?
 
-<img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = 500>
+<img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
 
 
