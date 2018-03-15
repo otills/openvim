@@ -20,7 +20,10 @@ A number of things make OpenVIM different to a traditional microscope
 - [x] OpenVIM is versatile - optics, cameras, motorised stages, lighting, incubation requirements can all be chosen to be most applicable to an application or budget
 
 
+## What can OpenVIM do?
+
 <img src="https://github.com/otills/openvim/blob/master/acquisitionSchematic.png" title="Acquisition Schematic" width="700">
+
 
 
 
