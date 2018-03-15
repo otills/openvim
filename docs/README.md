@@ -30,7 +30,7 @@ four
 
 five 
 
-![Bilby Stampede](radixDevelopment.gif)
+![Bilby Stampede](assets/radixDevelopment.gif)
 
 
 
