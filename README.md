@@ -12,7 +12,7 @@ OpenVIM is entirely digital and does not unlike a traditional microscope does no
 
 [[openvim/acquisitionSchematic.png]]
 
-
+[[https://github.com/otills/openvim/acquisitionSchematic.png]]
 
 
 
