@@ -10,9 +10,9 @@ See: www.vimeo.com/channels/embryonicdevelopment to see example video generated 
 ## How does OpenVIM differ from a traditional microscope?
 OpenVIM is entirely digital and does not unlike a traditional microscope does not contain eye pieces. It relies on a high quality machine vision camera to capture images. Furthermore, OpenVIM uses automated XY stages to enable the acquisition of images of multiple embryos over a prolonged period.
 
-[[https://github.com/otills/openvim/blob/master/acquisitionSchematic.png|alt=acquisitionSchematic]]]]
+![Acquisition Schematic](https://github.com/otills/openvim/blob/master/acquisitionSchematic.png)
 
-![useful image]({{ https://github.com/otills/openvim/blob/master/acquisitionSchematic.png }})
+
 
 
 is You can use the [editor on GitHub](https://github.com/otills/openvim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
