@@ -34,16 +34,21 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
    > [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)
    
    > [Tills et al 2013 Proc  Roy Soc B](http://rspb.royalsocietypublishing.org/content/280/1769/20131479.short)
+
 * *Lymnaea stagnalis* (freshwater pond snail)
+
 * *Littorina obtusata* (marine intertidal snail)
    > [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)
+
 * *Littorina littorea* (marine intertidal snail)
 
 ### Crustaceans
 * Orchestia gammarellus* (supralittoral marine amphipod)
-* Assorted species of marine crab larvae
+
 * *Gammarus chevreuxi* (marine amphipod)
 <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">
+
+* Assorted species of marine crab larvae
 
 * *Artemia franciscana*
 
@@ -54,7 +59,6 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 
 
-
 *  *Aurelia aurita* polyps
 <img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" height = "100" align="right">
    
@@ -62,20 +66,19 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
    
 ### Fish
 * *Danio rerio* 
-  > [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
-  > [Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235)
+   > [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
+ 
+   > [Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235)
+
 
 ### Amphibians
 * *Xenopus laevis* 
   >  [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
 
+
 ### Protozoa
 * *Vorticella similis* 
 <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="right">
-
-
-
-
 
 * Marine vorticella
 <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="right">
