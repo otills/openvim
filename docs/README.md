@@ -27,7 +27,6 @@ one
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2" width = "500">
 
 
-
 ## What species has OpenVIM been used to visualise?
 
 OpenVIM has been used to visualise the early life stages of a range of species. These
@@ -65,7 +64,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * *Vorticella similis* 
   >  www.discoverosmosis.com
  
-{% include video id="212731897" provider="vimeo" %}
+// {% include video id="212731897" provider="vimeo" %}
 
 one
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = "500">
