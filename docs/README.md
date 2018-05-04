@@ -48,8 +48,9 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 ### Cnidaria
 *  *Aurelia aurita*  ephyra
    > [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
-   *Aurelia aurita* polyps
-   <img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" width = "200", align="right">
+*  *Aurelia aurita* polyps
+
+<img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" width = "200", align="right">
    
 ### Fish
 * *Danio rerio* 
