@@ -29,6 +29,20 @@ Capturing the dynamic process of embryonic development in large numbers of embry
 
 OpenVIM has been used to visualise the early life stages of a range of species. These
 
+| Species     | Output |
+| ------------- | ------------- |
+| *Radix balthica*  | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
+| *Lymnaea stagnalis*  |   |
+| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
+
+| Species     | Output |
+| ------------- | ------------- |
+| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
+| *Lymnaea stagnalis*  |   |
+| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
+
+<img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">
+
 ### Molluscs
 * *Radix balthica* (freshwater pond snail)
    > [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)
@@ -43,12 +57,12 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * *Littorina littorea* (marine intertidal snail)
 
 ### Crustaceans
-* Orchestia gammarellus* (supralittoral marine amphipod)
+| Species     | Output |
+| ------------- | ------------- |
+| *Gammarus chevreuxi*  | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">|
+| *Orchestia gammarellus*  | supralittoral marine amphipod   |
+| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
 
-* *Gammarus chevreuxi* (marine amphipod)
-<img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">
-
-* Assorted species of marine crab larvae
 
 * *Artemia franciscana*
 
