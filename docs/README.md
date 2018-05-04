@@ -22,8 +22,6 @@ A number of things make OpenVIM different to a traditional microscope
 ## What can OpenVIM do?
 Capturing the dynamic process of embryonic development in large numbers of embryos, whilst maintaining an experimental treatment is formidible. OpenVIM was designed to capture images of many embryos at different temporal scales, allowing both biological responses apparent in realtime and responses that are only visible over longer temporal scales to be captured. OpenVIM can run automously over prolonged periods. It has been used for experiments lasting from just a few hours, to experiments running over several months.
 
-one
-
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2" width = "500">
 
 
@@ -48,9 +46,10 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * *Artemia franciscana*
 
 ### Cnidaria
-*  *Aurelia aurita*
+*  *Aurelia aurita*  ephyra
    > [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
- 
+   *Aurelia aurita* polyps
+   
 ### Fish
 * *Danio rerio* 
   > [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
@@ -62,6 +61,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Protozoa
 * *Vorticella similis* 
+<img src="assets/MarineVorticellaColony.mp4" title= "Mult temp res 2" width = "200">
   >  [Discover Osmosis Educational Resource](www.discoverosmosis.com)
  
 
