@@ -42,6 +42,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * Orchestia gammarellus* (supralittoral marine amphipod)
 * Assorted species of marine crab larvae
 * *Gammarus chevreuxi* (marine amphipod)
+* *Artemia franciscana*
 
 ### Cnidaria
 *  *Aurelia aurita*
