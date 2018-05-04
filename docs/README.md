@@ -34,8 +34,12 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Molluscs
 * *Radix balthica* (freshwater pond snail)
+   > https://academic.oup.com/biolinnean/article/110/3/581/2415874
+   > http://rspb.royalsocietypublishing.org/content/280/1769/20131479.short
+   > 
 * *Lymnaea stagnalis* (freshwater pond snail)
 * *Littorina obtusata* (marine intertidal snail)
+   > http://jeb.biologists.org/content/221/8/jeb171629
 * *Littorina littorea* (marine intertidal snail)
 
 ### Crustaceans
@@ -46,13 +50,21 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Cnidaria
 *  *Aurelia aurita*
+   > https://www.sciencedirect.com/science/article/pii/S0022098116300491
  
 ### Fish
-* *Danio rerio*
- 
-### Amphibian
-* *Xenopus laevis*
+* *Danio rerio* 
+  > https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37
+  > http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235
 
+### Amphibians
+* *Xenopus laevis* 
+  >  https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37
+
+### Protozoa
+* *Vorticella similis* 
+  >  www.discoverosmosis.com
+  {% include video id="212731897" provider="vimeo" %}
 one
 <img src="assets/radixDevelopment.gif" title= "Mult temp res 2", width = "500">
 
