@@ -33,7 +33,7 @@ one
 OpenVIM has been used to visualise the early life stages of a range of species. These
 
 ### Molluscs
-* Radix balthica (freshwater pond snail)
+* __italics__ Radix balthica __italics__ (freshwater pond snail)
 * Lymnaea stagnalis (freshwater pond snail)
 * Littorina obtusata (marine intertidal snail)
 * Littorina littorea (marine intertidal snail)
