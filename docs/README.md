@@ -61,7 +61,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Protozoa
 * *Vorticella similis* 
-<img src="assets/MarineVorticellaColony.mp4" title= "Mult temp res 2" width = "200">
+<img src="assets/marineVorticellaColony.gif" title= "Mult temp res 2" width = "200">
   >  [Discover Osmosis Educational Resource](www.discoverosmosis.com)
  
 
