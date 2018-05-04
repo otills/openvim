@@ -48,13 +48,17 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * *Artemia franciscana*
 
 ### Cnidaria
+<img src="assets/ephyra.gif" title= "ephyra" width = "200" align="right">
 *  *Aurelia aurita*  ephyra
    > [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
-<img src="assets/ephyra.gif" title= "ephyra" width = "200" align="right">
+
+
+
 
 *  *Aurelia aurita* polyps
-
 <img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" width = "200" align="right">
+   
+   
    
 ### Fish
 * *Danio rerio* 
@@ -68,6 +72,10 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 ### Protozoa
 * *Vorticella similis* 
 <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" width = "200" align="right">
+
+
+
+
 
 * Marine vorticella
 <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" width = "200" align="right">
