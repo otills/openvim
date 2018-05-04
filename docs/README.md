@@ -35,16 +35,21 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * *Radix balthica* (freshwater pond snail)
    > https://academic.oup.com/biolinnean/article/110/3/581/2415874
    > http://rspb.royalsocietypublishing.org/content/280/1769/20131479.short
-   > 
+    
 * *Lymnaea stagnalis* (freshwater pond snail)
+
 * *Littorina obtusata* (marine intertidal snail)
    > http://jeb.biologists.org/content/221/8/jeb171629
+   
 * *Littorina littorea* (marine intertidal snail)
 
 ### Crustaceans
 * Orchestia gammarellus* (supralittoral marine amphipod)
+
 * Assorted species of marine crab larvae
+
 * *Gammarus chevreuxi* (marine amphipod)
+
 * *Artemia franciscana*
 
 ### Cnidaria
