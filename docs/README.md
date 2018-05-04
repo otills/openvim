@@ -43,12 +43,12 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 * Orchestia gammarellus* (supralittoral marine amphipod)
 * Assorted species of marine crab larvae
 * *Gammarus chevreuxi* (marine amphipod)
-<img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" width = "200" align="right">
+<img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">
 
 * *Artemia franciscana*
 
 ### Cnidaria
-<img src="assets/ephyra.gif" title= "ephyra" width = "200" align="right">
+<img src="assets/ephyra.gif" title= "ephyra" height = "100" align="right">
 *  *Aurelia aurita*  ephyra
    > [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
 
@@ -56,7 +56,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 
 *  *Aurelia aurita* polyps
-<img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" width = "200" align="right">
+<img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" height = "100" align="right">
    
    
    
@@ -71,14 +71,14 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Protozoa
 * *Vorticella similis* 
-<img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" width = "200" align="right">
+<img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="right">
 
 
 
 
 
 * Marine vorticella
-<img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" width = "200" align="right">
+<img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="right">
 
   >  [Discover Osmosis Educational Resource](www.discoverosmosis.com)
  
