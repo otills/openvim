@@ -29,74 +29,49 @@ Capturing the dynamic process of embryonic development in large numbers of embry
 
 OpenVIM has been used to visualise the early life stages of a range of species. These
 
-| Species     | Output |
-| ------------- | ------------- |
-| *Radix balthica*  | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
-| *Lymnaea stagnalis*  |   |
-| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
-
-| Species     | Output |
-| ------------- | ------------- |
-| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
-| *Lymnaea stagnalis*  |   |
-| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
-
-<img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">
-
 ### Molluscs
-* *Radix balthica* (freshwater pond snail)
-   > [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)
-   
-   > [Tills et al 2013 Proc  Roy Soc B](http://rspb.royalsocietypublishing.org/content/280/1769/20131479.short)
+| Species     | Output |
+| ------------- | ------------- |
+| *Radix balthica* (freshwater pond snail) | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
+| *Lymnaea stagnalis* (freshwater pond snail)|   |
+| *Littorina obtusata* (intertidal marine snail)| [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  
+| *Littorina littorea* (intertidal marine snail) | <img src="assets/littorea.gif" title= "Gammarus chevreuxi" height = "100" align="center">
 
-* *Lymnaea stagnalis* (freshwater pond snail)
-
-* *Littorina obtusata* (marine intertidal snail)
-   > [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)
-
-* *Littorina littorea* (marine intertidal snail)
 
 ### Crustaceans
 | Species     | Output |
 | ------------- | ------------- |
-| *Gammarus chevreuxi*  | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="right">|
+| *Gammarus chevreuxi*  | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="center">|
 | *Orchestia gammarellus*  | supralittoral marine amphipod   |
-| *Littorina obtusata*  | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  |
-
-
-* *Artemia franciscana*
+|* *Artemia franciscana*   |  brine shrimp   |
 
 ### Cnidaria
-<img src="assets/ephyra.gif" title= "ephyra" height = "100" align="right">
-*  *Aurelia aurita*  ephyra
-   > [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
+| Species     | Output |
+| ------------- | ------------- |
+| *Aurelia aurita* ephyra | <img src="assets/ephyra.gif" title= "ephyra" height = "100" align="center">|
+| *Aurelia aurita* polyps| <img src="assets/jellyfishPolyps.gif" title= "ephyra" height = "100" align="center">|
+
+> [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491)
 
 
-
-*  *Aurelia aurita* polyps
-<img src="assets/jellyfishPolyps.gif" title= "jellyfish polyps" height = "100" align="right">
-   
-   
-   
 ### Fish
-* *Danio rerio* 
-   > [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
- 
-   > [Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235)
-
+| Species     | Output |
+| ------------- | ------------- |
+|*Danio rerio* | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
+|  | [Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
 
 ### Amphibians
-* *Xenopus laevis* 
-  >  [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)
-
+| Species     | Output |
+| ------------- | ------------- |
+| *Xenopus laevis* | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)|
 
 ### Protozoa
-* *Vorticella similis* 
-<img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="right">
+| Species     | Output |
+| ------------- | ------------- |
+| *Vorticella similis* | <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="center">|
+| * Marine vorticella | 
+<img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">|
+|  | [Discover Osmosis Educational Resource](www.discoverosmosis.com)|
 
-* Marine vorticella
-<img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="right">
-
-  >  [Discover Osmosis Educational Resource](www.discoverosmosis.com)
  
 
