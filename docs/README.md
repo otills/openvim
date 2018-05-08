@@ -30,6 +30,7 @@ Capturing the dynamic process of embryonic development in large numbers of embry
 OpenVIM has been used to visualise the early life stages of a range of species. These
 
 ### Molluscs
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 | *Radix balthica* (freshwater pond snail) | vid | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
@@ -39,6 +40,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 
 ### Crustaceans
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 | *Gammarus chevreuxi*  | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="center">| - |
@@ -46,6 +48,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 |* *Artemia franciscana*   |  brine shrimp   | - |
 
 ### Cnidaria
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 | *Aurelia aurita* ephyra | <img src="assets/ephyra.gif" title= "ephyra" height = "100" align="center">| [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491) |
@@ -53,17 +56,20 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 
 ### Fish
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 |*Danio rerio* | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37) | - |
 |- | [Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) | - |
 
 ### Amphibians
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 | *Xenopus laevis* | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)| - |
 
 ### Protozoa
+
 | Species     | Output | Publications |
 | ------------- | ------------- | ------------- |
 | *Vorticella similis* | <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="center">|
