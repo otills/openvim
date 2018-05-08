@@ -77,4 +77,4 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
  
 ### How do I develop an OpenVIM?
-A parts list for OpenVIM can be found here [parts-list](/parts) and a user group for embryo-phenomics more broadly is accessible here -[Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics)
+A parts list for OpenVIM can be found here [parts-list](parts.md) and a user group for embryo-phenomics more broadly is accessible here -[Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics)
