@@ -59,8 +59,8 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 | Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
-|*Danio rerio* | zebrafish | - | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37) |
-| " | - | - |[Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
+|*Danio rerio* | zebrafish |   -   | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37) |
+| " | " |   -   |[Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
 
 ### Amphibians
 
