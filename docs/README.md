@@ -34,7 +34,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 | Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Radix balthica* | freshwater pond snail | <img src="assets/RapidRadixbalthicaTimeLapse12s.gif" title= "Radix balthica" height = "100" align="center"> | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
-| *Lymnaea stagnalis* | freshwater pond snail|   | vid | - |
+| *Lymnaea stagnalis* | freshwater pond snail|   | - | - |
  | *Littorina obtusata* | intertidal marine snail | <img src="assets/obtusata.gif" title= "Littorina obtusata" height = "100" align="center"> | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  
 | *Littorina littorea* | intertidal marine snail | <img src="assets/littorea.gif" title= "Gammarus chevreuxi" height = "100" align="center"> |  - |
 
@@ -44,7 +44,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 | Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Gammarus chevreuxi*  | marine amphipod | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="center">| - |
-| *Orchestia gammarellus*  | supralittoral marine amphipod   | - | - |
+| *Orchestia gammarellus*  | supralittoral marine amphipod   | <img src="assets/orchestia.gif" title= "Littorina obtusata" height = "100" align="center"> | - |
 |* *Artemia franciscana*   |  brine shrimp   | - | - |
 
 ### Cnidaria
@@ -64,9 +64,9 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 
 ### Amphibians
 
-| Species     | Output | Publications |
-| ------------- | ------------- | ------------- |
-| *Xenopus laevis* | African clawed frog | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)| - |
+| Species     | Description | Output | Publications |
+| ------------- | ------------- | ------------- | ------------- |
+| *Xenopus laevis* | African clawed frog | - | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)| - |
 
 ### Protozoa
 
