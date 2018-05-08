@@ -2,6 +2,7 @@
 
 OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. The biggest limitation/consideration with parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
 
+
 #### Lenses
 * Keyence VHZ20R (extremely high depth of field lens which is excellent for low magnification imaging of aquatic embryos, 20-200 X digital magnification)
 * Keyence VHZ100R (high depth of field 100 - 1000 X digital magnification lens)
