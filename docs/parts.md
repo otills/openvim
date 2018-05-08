@@ -26,7 +26,7 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 * The Imaging Source - various models used.
 * QImaging Retiga - a good USB 3.0 camera with excellent image quality.
 
-#### Incubation chamber
+#### Incubation chambers
 * Oko-lab Cryo Boldline - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with gas mixing modules, including combined mixing of nitrogen, oxygen and carbon dioxide.
 * Oko-lab electrically heated chamber - allows heating of sample within multiwell plates together with data logging and humidification.
 
