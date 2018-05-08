@@ -76,4 +76,5 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 | Marine vorticella | marine Protozoa | <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">| [Discover Osmosis Educational Resource](www.discoverosmosis.com)|
 
  
-
+### How do I develop an OpenVIM?
+A parts list for OpenVIM can be found here [parts-list](/parts) and a user group for embryo-phenomics more broadly is accessible here -[Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics)
