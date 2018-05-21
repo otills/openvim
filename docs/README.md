@@ -73,7 +73,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 | Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Vorticella similis* | freshwater Protozoa | <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="center">| - |
-| Marine vorticella | marine Protozoa | <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">| [Discover Osmosis Educational Resource](www.discoverosmosis.com)|
+| Marine vorticella | marine Protozoa | <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">| [Discover Osmosis Educational Resource](http://www.discoverosmosis.com)|
 
  
 ### How do I develop an OpenVIM?
