@@ -44,7 +44,7 @@ OpenVIM has been used to visualise the early life stages of a range of species. 
 | Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Gammarus chevreuxi*  | marine amphipod | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="center">| - |
-| *Orchestia gammarellus*  | supralittoral marine amphipod   | <img src="assets/orchestia.gif" title= "Littorina obtusata" height = "100" width = 120 align="center"> | - |
+| *Orchestia gammarellus*  | supralittoral marine amphipod   | <img src="assets/orchestia.gif" title= "Orchestia gammarellus" height = "100" align="center"> | - |
 |* *Artemia franciscana*   |  brine shrimp   | - | - |
 
 ### Cnidaria
