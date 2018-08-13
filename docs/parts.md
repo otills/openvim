@@ -4,18 +4,18 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 
 
 #### Lenses
-* Keyence VHZ20R (extremely high depth of field lens which is excellent for low magnification imaging of aquatic embryos, 20-200 X digital magnification)
-* Keyence VHZ100R (high depth of field 100 - 1000 X digital magnification lens)
-* Keyence VHZ5000R (500 - 5000 X digital magnification, good for imaging Protozoa)
-* Optitem zooming lens (highly modular lens with a wide range of magnificaiton depending on auxillary lenses and TV tubes)
+* [Keyence VHZ20R](https://www.keyence.co.uk/products/microscope/digital-microscope/vhx-1000/models/vh-z20r/index.jsp) - Extremely high depth of field lens, excellent for low magnification imaging of aquatic embryos, 20-200 X digital magnification.
+* [Keyence VHZ100R](https://www.keyence.com/products/microscope/digital-microscope/vh_lens/models/vh-z100r/index.jsp) - High depth of field 100 - 1000 X digital magnification lens)
+* [Keyence VHZ500R](https://www.keyence.co.uk/products/microscope/digital-microscope/vhx-6000/models/vh-z500r/index.jsp) - 500 - 5000 X digital magnification, good for imaging Protozoa.
+* [Optem zooming lens](http://www.qioptiq.com/optem-micro-12-5.html) - Highly modular lens system with a wide range of magnification using combinations of auxillary lenses and TV tubes.
 
 #### Lighting
-* CCS LDR2-42-SW2 - a great 42 mm OD ring light for focussed LED dark field lighting
-* Keyence CA-DRW4F LED ring light - a non-focussed LED ring light, good for dark field
-* Schott EasyLED gooseneck lights - useful for versatile imaging of different specimens
+* [CCS LDR2-42-SW2](https://www.ccs-grp.com/products/series/1) - An angled 42 mm OD LED ring light for focussed dark field lighting
+* [Keyence CA-DRW4F](https://www.keyence.com/products/vision/vision-sys/ca-d/models/ca-drw4f/index.jsp) - A non-focussed 43 mm OD LED ring light.
+* [Schott EasyLED gooseneck lights](https://www.schott.com/lightingimaging/english/microscopy/products/easyled/spotlights.html) - A useful lighting apparatus for imaging different types of speciment, although less suited to repeatable lighting.
 
 #### Motorised stages
-* Marzhauser Scan Tango XY stage - very reliable and robust stage with very good technical and MicroManager support
+* [Marzhauser SCAN IM 130 x 85](https://www.marzhauser.com/en/products/microscope-stages/motorized-microscope-stages/scan-series/scan-im.html) - The Marzhauser Scan Tango XY stage is a very reliable and robust stage with very good technical and MicroManager support
 * Prior Optiscan stage - a cost effective stage with platform independant MicroManager support
 * Inverted Prior Optiscan stage - good for samples requiring high magnification to reduce the distance from sample to lens - used with VHZ500R lens.
 
