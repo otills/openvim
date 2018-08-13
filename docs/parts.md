@@ -15,19 +15,19 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 * [Schott EasyLED gooseneck lights](https://www.schott.com/lightingimaging/english/microscopy/products/easyled/spotlights.html) - A useful lighting apparatus for imaging different types of speciment, although less suited to repeatable lighting.
 
 #### Motorised stages
-* [Marzhauser SCAN IM 130 x 85](https://www.marzhauser.com/en/products/microscope-stages/motorized-microscope-stages/scan-series/scan-im.html) - The Marzhauser Scan Tango XY stage is a very reliable and robust stage with very good technical and MicroManager support
-* Prior Optiscan stage - a cost effective stage with platform independant MicroManager support
-* Inverted Prior Optiscan stage - good for samples requiring high magnification to reduce the distance from sample to lens - used with VHZ500R lens.
+* [Marzhauser SCAN IM 130 x 85](https://www.marzhauser.com/en/products/microscope-stages/motorized-microscope-stages/scan-series/scan-im.html) - The Marzhauser Scan Tango XY stage is a very reliable and robust stage with very good technical and MicroManager support. Platform independant MicroManager support. Controlled with the [Tango Desktop controller](https://www.marzhauser.com/en/products/controllers/tango-desktop.html) 
+* [Prior ES111 Optiscan stage](https://www.prior.com/product/optiscan-es111) - A cost effective stage with platform independant MicroManager support. Controlled with previous versions of the [ES11 Controller](https://www.prior.com/product/optiscan-es111).
+* [Prior ES107 Inverted Optiscan stage](https://www.prior.com/product/optiscan-es107) - An inverted XY stage, good for samples requiring high magnification to get the necessarily small working distance required, for example using the VHZ500R lens. Note that this lens requires different support leg offsets in the alumnium base owing to its greater footprint.
 
 #### Cameras
-* Allied Vision Technologies Pike 421B - an excellent camera for darkfield imaging, used with dc1394b FW800 connection. Great MicroManager support owing to new developments with the IIDC driver. Allows custom ROI, recording of full 14 bits and precise manipulation of frame rates via control over packet size. Image capture time is recorded with high precision.
+* [Allied Vision Technologies Pike 421B](https://www.alliedvision.com/en/products/cameras/detail/Pike/F-421.html) - An excellent camera for darkfield imaging, used with dc1394b FW800 connection. Great MicroManager support owing to new developments with the IIDC driver. Allows custom ROI, recording of full 14 bits and precise manipulation of frame rates via control over packet size. Image capture time is recorded with high precision. Recently discontinued due to sensor no longer being available, but Allied Vision Technology USB 3.0 equivalents available. 
 * Allied Vision Technologies Pike 421C. As above, but colour model.
-* Allied Vision Technologies Pike 210C. A lower resolution model of the above.
-* The Imaging Source - various models used.
-* QImaging Retiga - a good USB 3.0 camera with excellent image quality.
+* Allied Vision Technologies Pike 210C. A lower resolution model of the Pike 421C colour camera.
+* [The Imaging Source](https://www.theimagingsource.com/products/industrial-cameras/) - various colour and monochrome models from the DMK range used.
+* QImaging Retiga (R3 and R6)[https://www.qimaging.com/products/cameras/scientific/] - USB 3.0 cameras available in monochrome and colour, with excellent image quality. However, note that drivers for MicroManager are only available for Windows.
 
 #### Incubation chambers
-* Oko-lab Cryo Boldline - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with gas mixing modules, including combined mixing of nitrogen, oxygen and carbon dioxide.
-* Oko-lab electrically heated chamber - allows heating of sample within multiwell plates together with data logging and humidification.
+* [Oko-lab Cryo Boldline](http://www.oko-lab.com/live-cell-imaging/heating-cooling/temperature/h101-cryo-bl-heating-cooling) - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with [gas mixing modules](http://www.oko-lab.com/gas-mixing/for-microscope-incubators/co2-o2-unit-bl-0-20-1-95), including combined mixing of nitrogen, oxygen and carbon dioxide. OKO-Labs can design gas mixing units to user specifications if required.
+* [Oko-lab electrically heated chamber](http://www.oko-lab.com/live-cell-imaging/stage-top-manual-or-premixed/discontinued/uno-combined-controller) - Allows heating of sample within multiwell plates using electrical filament heaters built into an incubation chamber. System integrates this with data logging and controlled temperature humidification. This model is discontinued.
 
 [Return to main OpenVIM page](README.md)
