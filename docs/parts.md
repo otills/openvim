@@ -28,6 +28,6 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 
 #### Incubation chambers
 * [Oko-lab Cryo Boldline](http://www.oko-lab.com/live-cell-imaging/heating-cooling/temperature/h101-cryo-bl-heating-cooling) - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with [gas mixing modules](http://www.oko-lab.com/gas-mixing/for-microscope-incubators/co2-o2-unit-bl-0-20-1-95), including combined mixing of nitrogen, oxygen and carbon dioxide. OKO-Labs can design gas mixing units to user specifications if required.
-* [Oko-lab electrically heated chamber](http://www.oko-lab.com/live-cell-imaging/stage-top-manual-or-premixed/discontinued/uno-combined-controller) - Allows heating of sample within multiwell plates using electrical filament heaters built into an incubation chamber. System integrates this with data logging and controlled temperature humidification. This model is discontinued.
+* [Oko-lab electrically heated chamber](http://www.oko-lab.com/live-cell-imaging/stage-top-manual-or-premixed/discontinued/uno-combined-controller) - Allows heating of sample within multiwell plates using electrical filament heaters built into an incubation chamber. System integrates this with data logging and controlled temperature humidification. This particular model is discontinued.
 
 [Return to main OpenVIM page](README.md)
