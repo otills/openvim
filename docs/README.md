@@ -1,6 +1,6 @@
 <p align="center">
 <img src="assets/OpenVIMLogo.png" width="600"/>
-<h1 align="center">Hardware for visualising, quantifying and studying developing embryos</h1>
+<h3 align="center">Hardware for visualising, quantifying and studying developing embryos</h1>
 </p>
 
 ## Welcome to the documentation for OpenVIM - an open-source video microscope
