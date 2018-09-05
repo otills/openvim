@@ -6,7 +6,7 @@ OpenVIM is a modular video microscope developed by a team of scientists to recor
 
 <img src="assets/OpenVIM.png" title = "OpenVIM Figure" align = "right" width="400">
 
-See: [Embryonic development Vimeo Channel](www.vimeo.com/channels/embryonicdevelopment) to see example video generated using OpenVIM.
+See: [Embryonic Development Vimeo Channel](http://www.vimeo.com/channels/embryonicdevelopment) to see example video generated using OpenVIM.
 
 
 ## How does OpenVIM differ from a traditional microscope?
