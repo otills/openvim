@@ -1,6 +1,11 @@
+<p align="center">
+<img src="assets/OpenVIMLogo.png" width="800"/>
+<h3 align="center">Hardware for visualising, quantifying and studying developing embryos</h1>
+</p>
+
 ### Parts list
 
-OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. The biggest limitation/consideration with parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
+OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. The biggest consideration when choosing parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
 
 
 #### Lenses
