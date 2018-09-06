@@ -36,5 +36,5 @@ OpenVIM has been used to visualise the early life stages of a range of species, 
 <img src="assets/organismCollageVideo_photoshop.gif" title= "Organism collage" width = "500">
  
  
-### How do I develop an OpenVIM?
-A parts list for OpenVIM can be found here [parts-list](parts.md) and a user group for embryo-phenomics more broadly is accessible here -[Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics)
+## Building an OpenVIM?
+A parts list and assembly instructions for OpenVIM can be found here [parts-list](parts.md) and an [Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics) can be used to ask any questions or share experiences.
