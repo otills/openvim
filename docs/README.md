@@ -30,54 +30,11 @@ Capturing the dynamic process of embryonic development in large numbers of embry
 
 ## What species has OpenVIM been used to visualise?
 
-OpenVIM has been used to visualise the early life stages of a range of species. These
+OpenVIM has been used to visualise the early life stages of a range of species, including marine and freshwater gastropods, jelly fish, marine amphipods, single celled Protozoa and fish. See [here](species.md) for a full breakdown of which species have been visualised including, where available, a link to some sample video and any publications that have resulted.
 
-### Molluscs
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-| *Radix balthica* | freshwater pond snail | <img src="assets/RapidRadixbalthicaTimeLapse12s.gif" title= "Radix balthica" height = "100" align="center"> | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
-| *Lymnaea stagnalis* | freshwater pond snail|   | - | - |
- | *Littorina obtusata* | intertidal marine snail | <img src="assets/obtusata.gif" title= "Littorina obtusata" height = "100" align="center"> | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  
-| *Littorina littorea* | intertidal marine snail | <img src="assets/littorea.gif" title= "Gammarus chevreuxi" height = "100" align="center"> |  - |
-
-
-### Crustaceans
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-| *Gammarus chevreuxi*  | marine amphipod | <img src="assets/GammarusChevHatching.gif" title= "Gammarus chevreuxi" height = "100" align="center">| - |
-| *Orchestia gammarellus*  | supralittoral marine amphipod   | <img src="assets/orchestia.gif" title= "Orchestia gammarellus" height = "100" align="center"> | - |
-|* *Artemia franciscana*   |  brine shrimp   | - | - |
-
-### Cnidaria
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-| *Aurelia aurita* ephyra | jellyfish larva | <img src="assets/ephyra.gif" title= "ephyra" height = "100" align="center">| [Tills et al 2016 JEMBE](https://www.sciencedirect.com/science/article/pii/S0022098116300491) |
-| *Aurelia aurita* polyps| jellyfish benthic stage | <img src="assets/jellyfishPolyps.gif" title= "ephyra" height = "100" align="center">| - |
-
-
-### Fish
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-|*Danio rerio* | zebrafish |   -   | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37) |
-| " | " |   -   |[Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
-
-### Amphibians
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-| *Xenopus laevis* | African clawed frog | - | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)|
-
-### Protozoa
-
-| Species     | Description | Output | Publications |
-| ------------- | ------------- | ------------- | ------------- |
-| *Vorticella similis* | freshwater Protozoa | <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="center">| - |
-| Marine vorticella | marine Protozoa | <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">| [Discover Osmosis Educational Resource](http://www.discoverosmosis.com)|
-
+<p align="center">
+<img src="assets/organismCollageVideo_photoshop.gif" title= "Organism collage" width = "800">
+ 
  
 ### How do I develop an OpenVIM?
 A parts list for OpenVIM can be found here [parts-list](parts.md) and a user group for embryo-phenomics more broadly is accessible here -[Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics)
