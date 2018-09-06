@@ -6,15 +6,17 @@
 OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. The biggest consideration when choosing parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
 
 ### Custom parts
-OpenVIM requires some custom components and these are best created in partnership with a workshop. 
+OpenVIM requires some custom components and these are best created in partnership with a workshop. We also recommend having any alumnium parts hard anodised (find a local metal finisher) as otherwise alumnium will corrode over time.
 
-| Part     |  | Specification | 
+| Part     |  | Specification | Machining required |
 | ------------- | ------------- | ------------- | 
-| Aluminium base | <img src="assets/base.png" title= "base" height = "100" align="center"> | HE9 alumnium - 20 mm x 300 mm x 220 mm  |
-| Aluminium legs | <img src="assets/legs.png" title= "legs" height = "100" align="center"> | HE9 alumnium pole - 25 mm diameter x 600 mm   |
-| Aluminium optic support block | <img src="assets/opticMount.png" title= "optic mount" height = "100" align="center"> | HE9 alumnium block - 25 mm diameter x 600 mm   |
-| Stainless steel optic pole | <img src="assets/ssOpticPole.png" title= "optic pole" height = "100" align="center"> | 304 stainless steel pole, 15 mm diameter x 900 mm   |
-| Delrin lens support mount | <img src="assets/Lens support.png" title= "lens support" height = "100" align="center"> | Delrin machined using laithe   |
+| Aluminium base | <img src="assets/base.png" title= "base" height = "100" align="center"> | HE9 alumnium plate - 20 mm x 300 mm x 220 mm  |  4 tapped holes added to underside for attaching threaded feet (aids in level and keeping stable), and 4 untapped holes with centres matching the mounting points of the motorised stage - to which the aluminium legs will attach |
+| Aluminium legs x 4 | <img src="assets/legs.png" title= "legs" height = "100" align="center"> | HE9 alumnium pole - 25 mm diameter x 600 mm   | both ends of each leg should be tapped to allow attachment to the motorised stage and alumnium base - via machine bolt |
+| Aluminium optic support block | <img src="assets/opticMount.png" title= "optic mount" height = "100" align="center"> | HE9 alumnium block - 25 mm diameter x 600 mm   | 4 vertical holes for attaching to the alumnium base via machine bolt, one large vertical hole to receive the stainless steel optic pole and two horizontal threaded holes for grub screw tightening of the stainless steel optic pole |
+| Stainless steel optic pole | <img src="assets/ssOpticPole.png" title= "optic pole" height = "100" align="center"> | 304 stainless steel pole, 15 mm diameter x 900 mm   | No machining necessary, unless cutting to length is required |
+| Delrin lens support mount | <img src="assets/Lens support mount.png" title= "lens support" height = "100" align="center"> | Delrin machined to a circular profile using a laithe. The profile should be circular (diameter to suit the optics carrier chosen - see below) have a central hole for receipt of the lens (see below), a horizontal slit for tightening, using a recessed machine bolt, and a lip on the upper side so that it is supported by the optics carrier component that is chosen.   |
+| Acrylic lighting mount | <img src="assets/Lighting mount.png" title= "lighting mount" height = "100" align="center"> | Acrylic lighting mount, best produced using a CNC machine. Profile tailored to suit the light chosen and it is mounted on the stainless steel optic pole, secured using a grub screw and subsequently can be moved both vertically and laterally for optimisation and convenience. |
+
 
 #### Lenses
 * [Keyence VHZ20R](https://www.keyence.co.uk/products/microscope/digital-microscope/vhx-1000/models/vh-z20r/index.jsp) - Extremely high depth of field lens, excellent for low magnification imaging of aquatic embryos, 20-200 X digital magnification.
