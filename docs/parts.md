@@ -78,7 +78,7 @@ OpenVIM requires some custom components and these are best created in partnershi
 * Allied Vision Technologies Pike 421C. As above, but colour model.
 * Allied Vision Technologies Pike 210C. A lower resolution model of the Pike 421C colour camera.
 * [The Imaging Source](https://www.theimagingsource.com/products/industrial-cameras/) - various colour and monochrome models from the DMK range used.
-* QImaging Retiga (R3 and R6)[https://www.qimaging.com/products/cameras/scientific/] - USB 3.0 cameras available in monochrome and colour, with excellent image quality. However, note that drivers for MicroManager are only available for Windows.
+* [QImaging Retiga (R3 and R6)](https://www.qimaging.com/products/cameras/scientific/) - USB 3.0 cameras available in monochrome and colour, with excellent image quality. However, note that drivers for MicroManager are only available for Windows.
 
 ### Incubation chambers
 * [Oko-lab Cryo Boldline](http://www.oko-lab.com/live-cell-imaging/heating-cooling/temperature/h101-cryo-bl-heating-cooling) - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with [gas mixing modules](http://www.oko-lab.com/gas-mixing/for-microscope-incubators/co2-o2-unit-bl-0-20-1-95), including combined mixing of nitrogen, oxygen and carbon dioxide. OKO-Labs can design gas mixing units to user specifications if required.
