@@ -5,6 +5,16 @@
 
 OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. The biggest consideration when choosing parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
 
+### Custom parts
+OpenVIM requires some custom components and these are best created in partnership with a workshop. 
+
+| Part     |  | Specification | 
+| ------------- | ------------- | ------------- | 
+| Aluminium base | <img src="assets/base.png" title= "base" height = "100" align="center"> | HE9 alumnium - 20 mm x 300 mm x 220 mm  |
+| Aluminium legs | <img src="assets/legs.png" title= "legs" height = "100" align="center"> | HE9 alumnium pole - 25 mm diameter x 600 mm   |
+| Aluminium optic support block | <img src="assets/opticMount.png" title= "optic mount" height = "100" align="center"> | HE9 alumnium block - 25 mm diameter x 600 mm   |
+| Stainless steel optic pole | <img src="assets/ssOpticPole.png" title= "optic pole" height = "100" align="center"> | 304 stainless steel pole, 15 mm diameter x 900 mm   |
+| Delrin lens support mount | <img src="assets/Lens support.png" title= "lens support" height = "100" align="center"> | Delrin machined using laithe   |
 
 #### Lenses
 * [Keyence VHZ20R](https://www.keyence.co.uk/products/microscope/digital-microscope/vhx-1000/models/vh-z20r/index.jsp) - Extremely high depth of field lens, excellent for low magnification imaging of aquatic embryos, 20-200 X digital magnification.
