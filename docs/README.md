@@ -33,7 +33,7 @@ Capturing the dynamic process of embryonic development in large numbers of embry
 OpenVIM has been used to visualise the early life stages of a range of species, including marine and freshwater gastropods, jelly fish, marine amphipods, single celled Protozoa and fish. See [here](species.md) for a full breakdown of which species have been visualised including, where available, a link to some sample video and any publications that have resulted.
 
 <p align="center">
-<img src="assets/organismCollageVideo_photoshop.gif" title= "Organism collage" width = "800">
+<img src="assets/organismCollageVideo_photoshop.gif" title= "Organism collage" width = "500">
  
  
 ### How do I develop an OpenVIM?
