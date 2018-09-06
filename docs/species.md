@@ -1,8 +1,8 @@
 
 <p align="center">
 <img src="assets/OpenVIMLogo.png" width="800"/>
-<h3 align="left">Species visualised using OpenVIM</h1>
-<h3 align="left">https://www.vimeo.com/channels/embryonicdevelopment</h1>
+<h2 align="left">Species visualised using OpenVIM</h1>
+<h4 align="left">https://www.vimeo.com/channels/embryonicdevelopment</h1>
 </p>
 
 ### Molluscs
