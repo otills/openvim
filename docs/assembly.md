@@ -57,3 +57,5 @@ An OpenVIM can use a range of different [components](parts.md), but the assembly
 **viii)** :Connect the camera and motorised stage to MicroManager and initiate the 'Hardware Configuration Wizard'. This will allow you to discover the hardware and control settings. MicroManager has a good [user forum](http://micro-manager.3463995.n2.nabble.com) and details on device support and appropriate settings can be found on the [MicroManager Devices](https://micro-manager.org/wiki/Device%20Support) page.
 
 ---
+
+Return to [OpenVIM homepage](README.md) or the [choosing components](parts.md) page.
