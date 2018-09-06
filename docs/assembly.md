@@ -48,7 +48,12 @@ An OpenVIM can use a range of different [components](parts.md), but the assembly
 #### Attach lighting mount to the stainless steel optic support pole and attach LED ringlight
 <img src="assets/parts_baseLegsSupportStageLensHolderLensCamLight.png" height = "150" align="center"> 
 
-**vi)** :Slide the lighting mount down the stainless steel optic support pole and screw the LED ringlight to the support. Note holes will be determined by the LED, but manufacturers supply the drawings for relative mounting hole locations.
+**vii)** :Slide the lighting mount down the stainless steel optic support pole and screw the LED ringlight to the support. Note holes will be determined by the LED, but manufacturers supply the drawings for relative mounting hole locations.
 
 ---
+#### Connect motorised stage and camera to computer and launch MicroManager. 
+<img src="assets/parts_all.png" height = "150" align="center"> 
 
+**viii)** :Connect the camera and motorised stage to MicroManager and initiate the 'Hardware Configuration Wizard'. This will allow you to discover the hardware and control settings. MicroManager has a good [user forum](http://micro-manager.3463995.n2.nabble.com) and details on device support and appropriate settings can be found on the [MicroManager Devices](https://micro-manager.org/wiki/Device%20Support) page.
+
+---
