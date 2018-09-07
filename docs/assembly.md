@@ -15,7 +15,7 @@ An OpenVIM can use a range of different [components](parts.md), but the assembly
 #### Attach legs to support the XY stage
 <img src="assets/parts_baseLegs.png" height = "60" align="center"> 
 
-**i)** : Feed machine bolts from below the pre-drilled holes in the aluminium base to the tapped holes in each aluminium leg and tighten
+**ii)** : Feed machine bolts from below the pre-drilled holes in the aluminium base to the tapped holes in each aluminium leg and tighten
 
 ---
 #### Attach aluminium optic support block
