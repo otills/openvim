@@ -33,6 +33,10 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 * [Oko-lab Cryo Boldline](http://www.oko-lab.com/live-cell-imaging/heating-cooling/temperature/h101-cryo-bl-heating-cooling) - allows heating and cooling of samples in multiwell plates, with humidification (to reduce evaporation) and excellent data logging facilities. Can also be used with [gas mixing modules](http://www.oko-lab.com/gas-mixing/for-microscope-incubators/co2-o2-unit-bl-0-20-1-95), including combined mixing of nitrogen, oxygen and carbon dioxide. OKO-Labs can design gas mixing units to user specifications if required.
 * [Oko-lab electrically heated chamber](http://www.oko-lab.com/live-cell-imaging/stage-top-manual-or-premixed/discontinued/uno-combined-controller) - Allows heating of sample within multiwell plates using electrical filament heaters built into an incubation chamber. System integrates this with data logging and controlled temperature humidification. This particular model is discontinued.
 
+### Vibration reduction
+* [World Precision Instruments WPI-BM6 platform](https://www.wpi-europe.com/products/micromanipulators/vibration-isolation-products/mk-xxxbm-6.aspx). A great small, economical and portable solution for isolating an OpenVIM.
+* [Micro-G TMC Vibration Control table](https://www.capovani.com/clientresources/107/108/60/560/Obj178633-TMC_Micro-g_product_brochure_.pdf). A good solution for mounting OpenVIM systems, potentially multiple, together with some purpose built cable mounting, space for waterbaths and/or gas mixes supplying incubation systems underneath.
+
 ### Custom parts
 OpenVIM requires some custom components and these are best created in partnership with a workshop. We also recommend having any alumnium parts hard anodised (find a local metal finisher) as otherwise alumnium will corrode over time.
 
