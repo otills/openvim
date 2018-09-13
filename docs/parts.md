@@ -37,6 +37,9 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 * [World Precision Instruments WPI-BM6 platform](https://www.wpi-europe.com/products/micromanipulators/vibration-isolation-products/mk-xxxbm-6.aspx). A great small, economical and portable solution for isolating an OpenVIM.
 * [Micro-G TMC Vibration Control table](https://www.capovani.com/clientresources/107/108/60/560/Obj178633-TMC_Micro-g_product_brochure_.pdf). A good solution for mounting OpenVIM systems, potentially multiple, together with some purpose built cable mounting, space for waterbaths and/or gas mixes supplying incubation systems underneath.
 
+### Focus block
+* [Focus block for holding optics](http://mazurekopticalservices.co.uk/product/meiji-emt-series/)
+
 ### Custom parts
 OpenVIM requires some custom components and these are best created in partnership with a workshop. We also recommend having any alumnium parts hard anodised (find a local metal finisher) as otherwise alumnium will corrode over time.
 
@@ -46,7 +49,9 @@ OpenVIM requires some custom components and these are best created in partnershi
 
 **Material** : HE9 alumnium plate - 20 mm x 300 mm x 220 mm
 
-**Machining** : Four tapped holes added to underside for attaching threaded feet (aids in level and keeping stable), and four untapped holes with centres matching the mounting points of the motorised stage - to which the aluminium legs will attach.
+**Material cost** : 
+
+ **Machining** : Four tapped holes added to underside for attaching threaded feet (aids in level and keeping stable), and four untapped holes with centres matching the mounting points of the motorised stage - to which the aluminium legs will attach.
 
 ---
 #### Aluminium legs x 4
@@ -54,13 +59,17 @@ OpenVIM requires some custom components and these are best created in partnershi
 
 **Material** : HE9 alumnium pole - 25 mm diameter x 600 mm
 
+**Material cost** : Approx £45
+
 **Machining** : Both ends of each leg should be tapped to allow attachment to the motorised stage and alumnium base - via machine bolt
 
 ---
 #### Aluminium optic support block
 <img src="assets/opticMount.png" title= "optic mount" height = "50" align="center">
 
-**Material** : HE9 alumnium block - 25 mm diameter x 600 mm
+**Material** : HE9 alumnium block - 50 mm x 100 mm x 50 mm.
+
+**Material cost** : Approx £30
 
 **Machining** : Four vertical holes for attaching to the alumnium base via machine bolt, one large vertical hole to receive the stainless steel optic pole and two horizontal threaded holes for grub screw tightening of the stainless steel optic pole.
 
@@ -70,13 +79,17 @@ OpenVIM requires some custom components and these are best created in partnershi
 
 **Material** : 304 stainless steel pole, 15 mm diameter x 900 mm 
 
+**Material cost** : Approx £18
+
 **Machining** : No machining necessary, unless cutting to length is required
  
  ---
 #### Delrin lens support mount
 <img src="assets/Lens support mount.png" title= "lens support" height = "50" align="center">
 
-**Material** : Delrin thermoplastic
+**Material** : Delrin thermoplastic - 150 mm diameter x 100 mm length
+
+**Material cost** : Approx £50
 
 **Machining** : Delrin machined to a circular profile using a laithe. The profile should be circular (diameter to suit the optics carrier chosen - see below) have a central hole for receipt of the lens (see below), a horizontal slit for tightening, using a recessed machine bolt, and a lip on the upper side so that it is supported by the optics carrier component that is chosen.
 
