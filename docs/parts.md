@@ -3,7 +3,7 @@
 <h3 align="left">Choosing components</h1>
 </p>
 
-OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. This information can be downloaded as a [table](assets/OpenVIM_ComponentSpecificationTable.pdf)The biggest consideration when choosing parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
+OpenVIM is modular and can be used with a large variety of different parts. This page details the parts that have been used succesfully with OpenVIM. This information can be downloaded as a [table](assets/OpenVIM_ComponentSpecificationTable.pdf) in which component specification and research outputs are detailed. The biggest consideration when choosing parts is that the necessary MicroManager drivers are available [Micro-Manager supported hardware](https://micro-manager.org/wiki/Device_Support).
 
 ---
 ### Lenses
