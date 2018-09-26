@@ -28,12 +28,10 @@
 | " | " |   -   |[Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
 | - | - | - | - |
 | **Amphibians** | - | - | - |
-| Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Xenopus laevis* | African clawed frog | - | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37)|
 | - | - | - | - |
 | **Protozoa** | - | - | - |
-| Species     | Description | Output | Publications |
 | ------------- | ------------- | ------------- | ------------- |
 | *Vorticella similis* | freshwater Protozoa | <img src="assets/VorticellaSimilis.gif" title= "Vorticella similis" height = "100" align="center">| - |
 | Marine vorticella | marine Protozoa | <img src="assets/marineVorticellaColony.gif" title= "Marine vorticella" height = "100" align="center">| [Discover Osmosis Educational Resource](http://www.discoverosmosis.com)|
