@@ -95,7 +95,7 @@ OpenVIM requires some custom components and these are best created in partnershi
 
 ---
 #### Acrylic lighting mount
-<img src="assets/Lighting mount.png" title= "lighting mount" height = "50" align="center">
+<img src="assets/parts_lightingMount.png" title= "lighting mount" height = "50" align="center">
 
 **Material** : Acrylic 10 mm x 200 mm x 100 mm
 
