@@ -11,7 +11,7 @@
 | **Mollusca** | - | - | - |
 | *Radix balthica* | freshwater pond snail | <img src="assets/RapidRadixbalthicaTimeLapse12s.gif" title= "Radix balthica" height = "100" align="center"> | [Tills et al 2013 Biol J Linn Soc](https://academic.oup.com/biolinnean/article/110/3/581/2415874)  |
 | " | " | " | [Tills et al 2013 Proc Roy Soc B](http://rspb.royalsocietypublishing.org/content/royprsb/280/1769/20131479.full.pdf)  |
-| *Lymnaea stagnalis* | freshwater pond snail|   | - | - |
+| *Lymnaea stagnalis* | freshwater pond snail|  - | - | - |
  | *Littorina obtusata* | intertidal marine snail | <img src="assets/obtusata.gif" title= "Littorina obtusata" height = "100" align="center"> | [Truebano et al 2018 JEB](http://jeb.biologists.org/content/221/8/jeb171629)  
 | *Littorina littorea* | intertidal marine snail | <img src="assets/littorea.gif" title= "Gammarus chevreuxi" height = "100" align="center"> |  - |
 | ------------- | ------------- | ------------- | ------------- |
