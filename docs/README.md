@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/OpenVIMLogo.png" width="800"/>
+<img src="assets/OpenVIMLogo_v2.png" width="800"/>
 <h3 align="center">Hardware for visualising, quantifying and studying developing embryos</h1>
 </p>
 
