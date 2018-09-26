@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/OpenVIMLogo.png" width="800"/>
+<img src="assets/OpenVIMLogo_v2.png" width="800"/>
 <h3 align="left">Assembling an OpenVIM</h1>
 </p>
 
