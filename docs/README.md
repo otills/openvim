@@ -41,6 +41,6 @@ OpenVIM combines off-the-shelf parts, with some custom machined parts.
 
 See [choosing components](parts.md) and the [assembly instructions](assembly.md) for more information. 
 
-You can also download PDFs containing: [a list of potential components](assets/OpenVIM_components.pdf), [component specifications](assets/OpenVIM_ComponentSpecificationTable.pdf) and [an assembly guide](assets/assembly.pdf).
+You can also download PDFs containing: [a list of potential components](assets/OpenVIM_components.pdf), [component specifications](assets/OpenVIM_ComponentSpecificationTable.pdf) and [an assembly guide](assets/Supplementary X_assembly_v2.pdf).
 
 The [Embryo-phenomics user group](https://groups.google.com/forum/#!forum/embryo-phenomics) can also be used to ask any questions or share experiences.
