@@ -26,7 +26,7 @@
 | - | - | - | - |
 | **Fish** | - | - | - |
 |*Danio rerio* | zebrafish |   -   | [Tills et al 2013 BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-37) |
-| " | " |   -   |[Rudin-Bitterli et al 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
+| " | " |   -   |[Rudin-Bitterli et al 2014 PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113235) |
 | - | - | - | - |
 | **Amphibians** | - | - | - |
 | ------------- | ------------- | ------------- | ------------- |
