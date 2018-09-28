@@ -49,7 +49,7 @@ OpenVIM requires some custom components and these are best created in partnershi
 
 **Material** : HE9 alumnium plate - 20 mm x 300 mm x 220 mm
 
-**Material cost** : 
+**Material cost** : £65
 
  **Machining** : Four tapped holes added to underside for attaching threaded feet (aids in level and keeping stable), and four untapped holes with centres matching the mounting points of the motorised stage - to which the aluminium legs will attach.
 
@@ -98,6 +98,8 @@ OpenVIM requires some custom components and these are best created in partnershi
 <img src="assets/parts_lightingMount.png" title= "lighting mount" height = "50" align="center">
 
 **Material** : Acrylic 10 mm x 200 mm x 100 mm
+
+**Material cost** : Approx £5 
 
 **Machining** : Acrylic lighting mount, best produced using a CNC machine. Profile tailored to suit the light chosen and it is mounted on the stainless steel optic pole, secured using a grub screw and subsequently can be moved both vertically and laterally for optimisation and convenience.
 
