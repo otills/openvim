@@ -19,8 +19,8 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 
 ### Motorised stages
 * [Marzhauser SCAN IM 130 x 85](https://www.marzhauser.com/en/products/microscope-stages/motorized-microscope-stages/scan-series/scan-im.html) - The Marzhauser Scan Tango XY stage is a very reliable and robust stage with very good technical and MicroManager support. Platform independant MicroManager support. Controlled with the [Tango Desktop controller](https://www.marzhauser.com/en/products/controllers/tango-desktop.html) 
-* [Prior ES111 Optiscan stage](https://www.prior.com/product/optiscan-es111) - A cost effective stage with platform independant MicroManager support. Controlled with previous versions of the [ES11 Controller](https://www.prior.com/product/optiscan-es111).
-* [Prior ES107 Inverted Optiscan stage](https://www.prior.com/product/optiscan-es107) - An inverted XY stage, good for samples requiring high magnification to get the necessarily small working distance required, for example using the VHZ500R lens. Note that this lens requires different support leg offsets in the alumnium base owing to its greater footprint.
+* [Prior ES111 Optiscan stage](https://www.prior.com/product/optiscan-es111) - A cost effective stage with platform independant MicroManager support. Controlled with versions of the [ES11 Controller](https://www.prior.com/product/optiscan-es111).
+* [Prior ES107 Inverted Optiscan stage](https://www.prior.com/product/optiscan-es107) - An inverted XY stage, good for samples requiring high magnification to get the necessarily small working distance required, for example using the VHZ500R lens. Note that this stage requires different alumnium support leg offsets in the alumnium base owing to its greater footprint and mounting points.
 
 ### Cameras
 * [Allied Vision Technologies Pike 421B](https://www.alliedvision.com/en/products/cameras/detail/Pike/F-421.html) - An excellent camera for darkfield imaging, used with dc1394b FW800 connection. Great MicroManager support owing to new developments with the IIDC driver. Allows custom ROI, recording of full 14 bits and precise manipulation of frame rates via control over packet size. Image capture time is recorded with high precision. Recently discontinued due to sensor no longer being available, but Allied Vision Technology USB 3.0 equivalents available. 
@@ -41,7 +41,7 @@ OpenVIM is modular and can be used with a large variety of different parts. This
 * [Focus block for holding optics](http://mazurekopticalservices.co.uk/product/meiji-emt-series/)
 
 ### Custom parts
-OpenVIM requires some custom components and these are best created in partnership with a workshop. We also recommend having any alumnium parts hard anodised (find a local metal finisher) as otherwise alumnium will corrode over time.
+OpenVIM requires some custom components and these are best created in partnership with a workshop. We also recommend having any alumnium parts hard anodised (find a local metal finisher) as otherwise alumnium will corrode over time. This should be relatively inexpensive (£50 - 100) and keeps the OpenVIM easy to clean and maintain.
 
 ---
 #### Aluminium base 
